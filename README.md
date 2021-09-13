@@ -1,2 +1,3 @@
 # InterviewAndroid
-Aplicaicon para ver peliculas y series con API themoviedb
+Aplicaicon para ver peliculas y series con API tbhemovied
+Kotlin
